@@ -456,11 +456,11 @@ printf("Carta 2 (%s) Soma dos pontos: %.2f\n", cidade2, somaC2);
 
 if (somaC1 > somaC2) {
    printf("\n");
-   printf("CARTA 1 - %s: SAI VITORIOSA PELA MAIOR SOMA DOS ATRIBUTOS.\n", cidade1);
+   printf("CARTA 1 - %s: SAI GANHANDO PELA MAIOR SOMA DOS ATRIBUTOS.\n", cidade1);
    printf("\n");
 } else if (somaC2 > somaC1) {
    printf("\n");
-   printf("CARTA 2 - %s: SAI VITORIOSA PELA MAIOR SOMA DOS ATRIBUTOS.\n", cidade2);
+   printf("CARTA 2 - %s: SAI GANHANDO PELA MAIOR SOMA DOS ATRIBUTOS.\n", cidade2);
    printf("\n");
 } else {
    printf("\n");
